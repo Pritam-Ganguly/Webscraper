@@ -106,5 +106,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [ReverseMarkdown](https://github.com/mysticmind/reversemarkdown-net) for HTML to Markdown conversion.
 
 ---
-
-Feel free to customize this README to better fit your project's needs!
